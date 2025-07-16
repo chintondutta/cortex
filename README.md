@@ -3,7 +3,7 @@
 Cortex is a secure, content-sharing backend built with TypeScript, Express, Prisma, and JWT-based authentication. Users can sign up, create and manage content with tags, and share their content with public links.
 
 
-## 🚀 Features
+## Features
 
 - JWT-based authentication (Passport.js)
 - Create, read, update, and delete user content
@@ -22,11 +22,11 @@ Cortex is a secure, content-sharing backend built with TypeScript, Express, Pris
 - **Utilities:** Crypto for secure hash generation
 
 
-## 🏗️ Setup
+## Setup
 
 ### Clone the Repo
 ```bash
-git clone https://github.com/your-username/cortex.git
+git clone https://github.com/chintondutta/cortex.git
 cd cortex
 ```
 ### Install Dependencies
